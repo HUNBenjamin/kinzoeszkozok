@@ -1,5 +1,4 @@
 # kinzoeszkozok-konspiracios-elmeletek
-Középkori kínzóeszközök 
 
 
 Üdvözöljük a Tisztelt Látogatókat!
