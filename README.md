@@ -11,7 +11,7 @@ Támából nem lesz hiány erre garanciát vállalunk.
 
 Köszönjük szépen mélyen tisztelt figyelmüket!
 
-Jó szórakozást kíván:
+### Jó szórakozást kíván:
 
 -Bartha Bende
 -Reinhardt Benjamin
