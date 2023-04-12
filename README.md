@@ -3,7 +3,7 @@
 
 Üdvözöljük a Tisztelt Látogatókat!
 
-Ezen a weboldalon bemutatjuk az ó és középkor különleges és kivételes kinzóeszközöket, ami az emberi brutalitás és kegyetlenséget fogja prezentálni.
+Ezen a weboldalon bemutatjuk az ó és középkor különleges és kivételes kinzóeszközeit, ami az emberi brutalitás és kegyetlenséget fogják prezentálni.
 A látogatás során változatos képekkel illetve részletes leírásokkal fogjuk vendégeink kedélyeit borzolni.
 
 Azokra is gondolunk, akik inkább a sötétebb konspirációs és összeesküvés elméletek tanulmnyázosása foglalkoztatja.
