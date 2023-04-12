@@ -1,7 +1,7 @@
 # kinzoeszkozok-konspiracios-elmeletek
 
 
-Üdvözöljük a Tisztelt Látogatókat!
+### Üdvözöljük a Tisztelt Látogatókat!
 
 Ezen a weboldalon bemutatjuk az ó és középkor különleges és kivételes kinzóeszközeit, ami az emberi brutalitás és kegyetlenséget fogják prezentálni.
 A látogatás során változatos képekkel illetve részletes leírásokkal fogjuk vendégeink kedélyeit borzolni.
