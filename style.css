@@ -1,12 +1,11 @@
-h1 {
-    text-align: center;
-    color: white;
-}
-
 body {
     background-image: url(Konspirációs_képek/háttér.jpg);
     color: white;
     text-align: justify;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
 }
 
 .keret{
@@ -23,9 +22,5 @@ body {
 }
 
 .kinzoimage{
-    max-height: 250px;
-}
-
-.text-right{
-    text-align: right;
+    max-width: 300px;
 }
