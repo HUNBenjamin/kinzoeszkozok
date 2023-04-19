@@ -8,3 +8,17 @@ body {
     color: white;
     text-align: justify;
 }
+
+.keret{
+    border: 2px blueviolet solid;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 2px;
+}
+.imgborder{
+    border: 2px blueviolet solid;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.kinzoimage{
+    max-width: 300px;
+}
