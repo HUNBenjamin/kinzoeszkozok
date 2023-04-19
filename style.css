@@ -25,3 +25,7 @@ body {
 .kinzoimage{
     max-height: 250px;
 }
+
+.text-right{
+    text-align: right;
+}
