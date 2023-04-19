@@ -19,13 +19,14 @@ body {
 .imgborder{
     border: 2px blueviolet solid;
     background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
 }
 
 .kinzoimage{
-    max-width: 300px;
+    max-height: 250px;
+    min-width: 300px;
 
 }
-
 
 .container {
     display: flex;
