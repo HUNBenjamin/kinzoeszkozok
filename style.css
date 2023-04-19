@@ -23,4 +23,5 @@ body {
 
 .kinzoimage{
     max-height: 250px;
+    min-width: 300px;
 }
