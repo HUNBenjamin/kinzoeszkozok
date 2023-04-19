@@ -105,23 +105,6 @@ body {
     transition: all 0.3s ease-in-out;
 }
 
-h2 {
-    margin-top: 0;
-    font-size: 36px;
-    font-weight: bold;
-}
-
-h1 {
-    margin-left: 10px;
-}
-
-p {
-    margin-bottom: 0;
-    font-size: 18px;
-    margin-right: 10px;
-    margin-left: 10px;
-}
-
 hr.solid {
     border-top: 10px solid white;
     max-height: 250px;
