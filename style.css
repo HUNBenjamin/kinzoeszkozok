@@ -12,12 +12,9 @@ body {
     border: 2px blueviolet solid;
     background-color: rgba(0, 0, 0, 0.6);
     padding: 2px;
-<<<<<<< HEAD
-=======
     border-radius: 3px;
     min-height: 275px;
     min-width: 325px;
->>>>>>> 7c8c3c991604412d2d79d9b65489f28aeaa6dd29
 }
 .imgborder{
     border: 2px blueviolet solid;
@@ -25,7 +22,6 @@ body {
 }
 
 .kinzoimage{
-<<<<<<< HEAD
     max-width: 300px;
 
 }
@@ -128,8 +124,6 @@ p {
 
 hr.solid {
     border-top: 10px solid white;
-=======
     max-height: 250px;
     min-width: 300px;
->>>>>>> 7c8c3c991604412d2d79d9b65489f28aeaa6dd29
 }
